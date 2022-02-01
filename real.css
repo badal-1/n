@@ -1,0 +1,29 @@
+#h:hover{
+background-color: orange;
+color: blueviolet;
+}
+#h{
+color: yellow;
+}
+#font_size_displayer{
+color: blue;
+}
+.copy_right_footer{
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    }
+    .copy_right_footer:hover{
+        position: fixed;
+        color: red;
+        bottom: 0;
+        width: 100%;
+        background-color: yellow;
+        line-height: 3;
+        text-align: center;
+        font-weight: bolder;
+        }

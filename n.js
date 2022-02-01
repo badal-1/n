@@ -1,0 +1,1 @@
+window.setTimeout('window.location="real.html"; ',10000);
